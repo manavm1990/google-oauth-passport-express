@@ -46,6 +46,7 @@
     "*.{js,css,md}": "prettier --write"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "passport": "^0.4.1",
     "passport-google-oauth": "^2.0.0"
   }
